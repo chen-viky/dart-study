@@ -1,4 +1,4 @@
-import 'package:dart_study/dart_study.dart';
+import 'package:dart_study/variables.dart';
 import 'package:test/test.dart';
 
 void main() {
